@@ -65,6 +65,10 @@ And a new file named `project.log` will appear in the project folder.
 Once you see it, you're 90% of the way there.
 After that, you'll just make the project yours and get started exploring.
 
+## Changes
+
+Made a change for the wordcloud and change the background to blue in web_words_Asher-Laws.ipynb.
+
 ## Command Reference
 
 The commands below are used in the workflow guide above.
